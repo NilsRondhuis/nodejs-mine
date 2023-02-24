@@ -1,0 +1,17 @@
+{
+  "name": "3-node-js-start-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-start.js",
+  "scripts": {
+    "start": "node work-with-file",
+    "dev": "nodemon work-with-file",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
